@@ -78,7 +78,7 @@ const games = [
   {
     title: "Game 7: Snake Game",
     duration: "5 MIN",
-    thumbnail: image4, 
+    thumbnail: image6, 
     views: "800K views",
     ago: "1 day ago",
     description: "A classic strategy game where you connect four pieces in a row!",
@@ -87,7 +87,7 @@ const games = [
   {
     title: "Game 5:Z-jumper",
     duration: "10 MIN",
-    thumbnail: image5, 
+    thumbnail: image6, 
     views: "1.2M views",
     ago: "3 days ago",
     description: "Help the gorilla throw objects to hit targets in the jungle!",
