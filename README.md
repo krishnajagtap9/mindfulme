@@ -47,7 +47,7 @@ Prerequisites
 Installation
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/mindful-me.git  
+git clone git@github.com:krishnajagtap9/mindfulme.git
 cd mindful-me  
 
 
@@ -72,9 +72,7 @@ python main.py
 	•	Frontend:
 
 npm start  
-
-
-	5.	Access the application at https://mindfulme-eight.vercel.app/Guid_meditation
+Access the application at https://mindfulme-eight.vercel.app/Guid_meditation
 🛠 Tech Stack
 	•	Frontend: React, HTML, CSS, JavaScript
 	•	Backend: FastAPI, Python
