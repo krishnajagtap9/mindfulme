@@ -74,7 +74,7 @@ python main.py
 npm start  
 
 
-	5.	Access the application at (https://mindfulme-eight.vercel.app/Guid_meditation)
+	5.	Access the application at https://mindfulme-eight.vercel.app/Guid_meditation
 🛠 Tech Stack
 	•	Frontend: React, HTML, CSS, JavaScript
 	•	Backend: FastAPI, Python
