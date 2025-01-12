@@ -39,9 +39,9 @@ const App = () => {
     Object.keys(formValues).forEach((key) => {
       formData.append(key, formValues[key]);
     });
-  
+
     try {
-      const response = await fetch("https://backend-3bd7.onrender.com/recommend/", {
+      const response = await fetch("https://backend-1-z842.onrender.com/recommend/", {
         method: "POST",
         body: formData, // Send the FormData object
       });
